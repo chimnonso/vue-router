@@ -8,6 +8,7 @@
 <script>
 
 import TheNavigation from './components/nav/TheNavigation.vue';
+// Going home
 
 export default {
   components: {
